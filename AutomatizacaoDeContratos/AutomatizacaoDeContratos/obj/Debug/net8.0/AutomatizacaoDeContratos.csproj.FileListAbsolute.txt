@@ -1,0 +1,14 @@
+C:\temp\projetos\C# - Curso\EmpresasDeContratosComInterface\AutomatizacaoDeContratos\AutomatizacaoDeContratos\bin\Debug\net8.0\AutomatizacaoDeContratos.exe
+C:\temp\projetos\C# - Curso\EmpresasDeContratosComInterface\AutomatizacaoDeContratos\AutomatizacaoDeContratos\bin\Debug\net8.0\AutomatizacaoDeContratos.deps.json
+C:\temp\projetos\C# - Curso\EmpresasDeContratosComInterface\AutomatizacaoDeContratos\AutomatizacaoDeContratos\bin\Debug\net8.0\AutomatizacaoDeContratos.runtimeconfig.json
+C:\temp\projetos\C# - Curso\EmpresasDeContratosComInterface\AutomatizacaoDeContratos\AutomatizacaoDeContratos\bin\Debug\net8.0\AutomatizacaoDeContratos.dll
+C:\temp\projetos\C# - Curso\EmpresasDeContratosComInterface\AutomatizacaoDeContratos\AutomatizacaoDeContratos\bin\Debug\net8.0\AutomatizacaoDeContratos.pdb
+C:\temp\projetos\C# - Curso\EmpresasDeContratosComInterface\AutomatizacaoDeContratos\AutomatizacaoDeContratos\obj\Debug\net8.0\AutomatizacaoDeContratos.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\C# - Curso\EmpresasDeContratosComInterface\AutomatizacaoDeContratos\AutomatizacaoDeContratos\obj\Debug\net8.0\AutomatizacaoDeContratos.AssemblyInfoInputs.cache
+C:\temp\projetos\C# - Curso\EmpresasDeContratosComInterface\AutomatizacaoDeContratos\AutomatizacaoDeContratos\obj\Debug\net8.0\AutomatizacaoDeContratos.AssemblyInfo.cs
+C:\temp\projetos\C# - Curso\EmpresasDeContratosComInterface\AutomatizacaoDeContratos\AutomatizacaoDeContratos\obj\Debug\net8.0\AutomatizacaoDeContratos.csproj.CoreCompileInputs.cache
+C:\temp\projetos\C# - Curso\EmpresasDeContratosComInterface\AutomatizacaoDeContratos\AutomatizacaoDeContratos\obj\Debug\net8.0\AutomatizacaoDeContratos.dll
+C:\temp\projetos\C# - Curso\EmpresasDeContratosComInterface\AutomatizacaoDeContratos\AutomatizacaoDeContratos\obj\Debug\net8.0\refint\AutomatizacaoDeContratos.dll
+C:\temp\projetos\C# - Curso\EmpresasDeContratosComInterface\AutomatizacaoDeContratos\AutomatizacaoDeContratos\obj\Debug\net8.0\AutomatizacaoDeContratos.pdb
+C:\temp\projetos\C# - Curso\EmpresasDeContratosComInterface\AutomatizacaoDeContratos\AutomatizacaoDeContratos\obj\Debug\net8.0\AutomatizacaoDeContratos.genruntimeconfig.cache
+C:\temp\projetos\C# - Curso\EmpresasDeContratosComInterface\AutomatizacaoDeContratos\AutomatizacaoDeContratos\obj\Debug\net8.0\ref\AutomatizacaoDeContratos.dll
